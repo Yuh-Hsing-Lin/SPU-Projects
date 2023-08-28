@@ -1,2 +1,3 @@
 # SPU-Projects
-This is a repository where I will post the work that I did in my SPU MS-DAB program
+This repository will be projects from 2023 to 2025 MS-DAB program.
+> projects will be in Excel, Python, R, SQL and Non-SQL
